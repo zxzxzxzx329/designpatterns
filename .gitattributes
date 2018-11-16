@@ -1,1 +1,4 @@
 *.cpp linguist-language=C++
+*.vcproj linguist-language=C++
+*.htm linguist-language=C++
+*.manifest linguist-language=C++
